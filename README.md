@@ -41,10 +41,6 @@
 <a href="https://www.ruby-lang.org/en/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ruby-original-wordmark.svg" alt="Ruby" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
-
-
-
 </td></tr></table>  
 
 <br/>  
@@ -67,14 +63,3 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=kdhubb&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>  
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=kdhubb&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
