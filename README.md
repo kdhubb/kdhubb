@@ -1,7 +1,7 @@
 ### <div align="center">I'm K.D., a librarian 📚 turned software developer 👩‍💻 focusing on backend development.</div>  
   
 
-- 🏗️ I’m currently working on [Read Aloud](https://github.com/Read-Aloud-Program)  
+
   
 
 - 🌱 I’m currently learning JavaScript and Docker  
